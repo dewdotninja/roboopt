@@ -14,6 +14,7 @@ and online materials
 * [Underactuated Robotics](https://underactuated.csail.mit.edu/)
 * [16-745 Optimal Control & Reinforcement Learning](https://optimalcontrol.ri.cmu.edu/)
 * [Feedback Systems: An Introduction for Scientists and Engineers](https://fbswiki.org/wiki/index.php/Main_Page)
+* [Robotic Manipulation](https://manipulation.mit.edu/)
 
 ### Motivation
 
