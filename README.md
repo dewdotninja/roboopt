@@ -1,4 +1,4 @@
-## roboopt journal
+## roboopt
 
 This repo is intended to keep my adventure in the area of robotics and optimization. I start it from scratch, so you might want 
 to get back later when there's some materials available.
@@ -16,6 +16,10 @@ and online materials
 * [Feedback Systems: An Introduction for Scientists and Engineers](https://fbswiki.org/wiki/index.php/Main_Page)
 
 ### Motivation
+
+Almost all of my control system experiences result in controllers with fixed coefficients. I have not heard of solving 
+some optimization problem during sampling instant, until this era when computer performance makes it possible. 
+So this direction is new and fastinating to me. 
 
 
 
